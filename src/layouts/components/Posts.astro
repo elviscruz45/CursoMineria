@@ -92,8 +92,11 @@ const { className, posts, fluid } = Astro.props;
             {post.data.title}
           </a>
         </h3>
+     
         <p class="text-text line-clamp-2">{plainify(post.body ?? "")}</p>
+<div class="my-3"></div> 
       </div>
     ))
   }
+
 </div>
