@@ -57,8 +57,7 @@ const { title, description, meta_title, image } = entry.data;
         <div class="sm:col-7 md:col-8">
           <form
             class="contact-form row gy-2 justify-center"
-            method="POST"
-            action={contact_form_action}
+            id="contact-form"
           >
             <div class="lg:col-6">
               <label class="mb-2 block" for="name"
@@ -67,6 +66,7 @@ const { title, description, meta_title, image } = entry.data;
               <input
                 class="form-input w-full"
                 name="name"
+                id="contact-name"
                 type="text"
                 required
               />
@@ -78,22 +78,23 @@ const { title, description, meta_title, image } = entry.data;
               <input
                 class="form-input w-full"
                 name="email"
+                id="contact-email"
                 type="email"
                 required
               />
             </div>
             <div class="col-12">
               <label class="mb-2 block" for="subject">Asunto</label>
-              <input class="form-input w-full" name="subject" type="text" />
+              <input class="form-input w-full" name="subject" id="contact-subject" type="text" />
             </div>
             <div class="col-12">
               <label class="mb-2 block" for="message"
                 >Mensaje <span class="text-red-600">*</span></label
               >
-              <textarea class="form-textarea w-full" rows="4"></textarea>
+              <textarea class="form-textarea w-full" name="message" id="contact-message" rows="4" required></textarea>
             </div>
             <div class="col-12">
-              <button class="btn btn-primary mt-2">Enviar ahora</button>
+              <button type="button" class="btn btn-primary mt-2" id="send-whatsapp">Enviar ahora</button>
             </div>
           </form>
         </div>
@@ -101,3 +102,23 @@ const { title, description, meta_title, image } = entry.data;
     </div>
   </section>
 </Base>
+
+<script>
+  document.getElementById('send-whatsapp')?.addEventListener('click', function() {
+    const name = (document.getElementById('contact-name') as HTMLInputElement)?.value;
+    const email = (document.getElementById('contact-email') as HTMLInputElement)?.value;
+    const subject = (document.getElementById('contact-subject') as HTMLInputElement)?.value;
+    const message = (document.getElementById('contact-message') as HTMLTextAreaElement)?.value;
+
+    if (!name || !email || !message) {
+      alert('Por favor completa todos los campos obligatorios (Nombre, Email y Mensaje)');
+      return;
+    }
+
+    const whatsappMessage = `Hola! Mi nombre es *${name}*\n\nEmail: ${email}\n${subject ? `Asunto: ${subject}\n` : ''}\nMensaje:\n${message}`;
+    
+    const whatsappUrl = `https://wa.me/51971089138?text=${encodeURIComponent(whatsappMessage)}`;
+    
+    window.open(whatsappUrl, '_blank');
+  });
+</script>
