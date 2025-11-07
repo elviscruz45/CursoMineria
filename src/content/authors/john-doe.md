@@ -1,12 +1,15 @@
 ---
-title: Elvis Cruz
-meta_title: ""
+title: "Elvis Cruz"
+meta_title: "CTO | IA, Automatización e Innovación en Minería"
 image: /images/authors/john-doe.jpg
-description: this is meta description
+description: "CTO y precursor de la transformación digital en minería mediante IA, automatización y arquitectura en la nube."
 social:
-  facebook: https://www.facebook.com/johndoe
-  x: https://www.x.com/johndoe
-  linkedin: https://www.linkedin.com/johndoe
+  facebook: "https://www.tiktok.com/@elvismineriaytecnologia"
+  linkedin: "https://www.linkedin.com/in/elvis-cruz-chullo/"
+  youtube: "https://www.youtube.com/@ElvisMineriayTecnologia"
+draft: false
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Lidero la integración de inteligencia artificial, automatización y ecosistemas digitales en la industria minera para incrementar productividad, seguridad y sostenibilidad. Diseño y despliego plataformas inteligentes — desde la arquitectura hasta producción — combinando datos en tiempo real, IoT y analítica avanzada para mejorar la toma de decisiones en operaciones industriales de gran escala.
+
+Comparto conocimiento para ayudar a profesionales, ingenieros y empresas a transformar sus procesos, impulsar la innovación y adoptar tecnologías modernas aplicadas a la vida real en la industria minera.

@@ -1,30 +1,69 @@
 ---
-title: "Privacy"
-meta_title: ""
-description: "this is meta description"
+title: "Política de Privacidad"
+meta_title: "Política de Privacidad"
+description: "Cómo recopilamos, usamos y protegemos tu información personal dentro de la plataforma de cursos."
 draft: false
 ---
 
-#### Responsibility of Contributors
+### Responsabilidad de los Usuarios y Contribuyentes
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Al acceder a nuestra plataforma, crear una cuenta o participar en actividades dentro de los cursos (comentarios, foros, envíos de tareas, etc.), aceptas usar nuestros servicios de manera responsable.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+Los usuarios se comprometen a:
 
-#### Gathering of Personal Information
+- Proporcionar información verídica durante el registro.
+- Mantener la confidencialidad de sus credenciales de acceso.
+- Usar el contenido educativo únicamente para fines personales y de aprendizaje.
+- Respetar los derechos de autor: queda prohibido descargar, duplicar o compartir material sin autorización.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Nos reservamos el derecho de suspender o eliminar cuentas que violen estas normas o afecten la experiencia de otros usuarios.
 
-#### Protection of Personal- Information
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+### Recolección de Información Personal
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+Para brindarte acceso a los cursos y una experiencia personalizada, podemos solicitar y almacenar:
 
-#### Privacy Policy Changes
+- **Datos de registro**: nombre, correo electrónico y contraseña.
+- **Información de uso**: progreso en los cursos, estadísticas de aprendizaje, historial de acceso.
+- **Información opcional**: redes sociales o datos profesionales, si decides proporcionarlos.
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+Solo recopilamos información necesaria para ofrecer nuestros servicios, mejorar la plataforma o comunicarnos contigo.
+
+---
+
+### Uso y Protección de la Información
+
+Nos comprometemos a proteger tu información mediante medidas de seguridad técnicas y administrativas.
+
+Incluimos:
+
+- Conexión segura mediante HTTPS.
+- Almacenamiento cifrado de contraseñas.
+- Acceso restringido a la información solo para personal autorizado.
+- Copias de seguridad periódicas para evitar pérdida de datos.
+
+Tu información **no será vendida ni compartida con terceros** para fines comerciales.  
+Solo compartiremos datos con servicios externos estrictamente necesarios para el funcionamiento de la plataforma, como:
+
+- Procesadores de pago
+- Herramientas de analítica o envío de correos
+
+En todos los casos, estos servicios están obligados a cumplir acuerdos de privacidad.
+
+---
+
+### Cambios en Esta Política
+
+Podemos actualizar esta política por razones legales, mejoras de seguridad o cambios en las funcionalidades de la plataforma.
+
+En caso de modificaciones importantes:
+
+- Se publicará la nueva versión en esta misma página.
+- Notificaremos a los usuarios por correo o mediante avisos dentro de la plataforma.
+
+La fecha de última actualización será indicada aquí mismo.
+
+---
+
+**Última actualización:** _07/11/2025_

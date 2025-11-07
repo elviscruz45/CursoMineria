@@ -1,31 +1,72 @@
 ---
-title: "Soy Elvis, Especialista en IA para Minería e Industria"
-meta_title: "Acerca de mí"
+title: "Bienvenido a la plataforma donde la programación se une con la operación minera real."
+meta_title: "Acerca de la Plataforma"
 image: "/images/author.png"
 draft: false
 
 what_i_do:
-  title: "Lo que hago"
+  title: "Qué aprenderás en esta plataforma"
   items:
-    - title: "IA, Automatización y Plataformas Inteligentes"
-      description: "Diseño e implemento soluciones con IA, automatización y datos en tiempo real para aumentar la productividad, seguridad y eficiencia en operaciones industriales y mineras."
+    - title: "IA y Automatización para Operación y Mantenimiento"
+      description: "Aprenderás a usar programación + IA para detectar fallas, anticipar problemas y mejorar la productividad en equipos de mina y planta."
 
-    - title: "Arquitecturas en la Nube de Principio a Fin"
-      description: "Creo plataformas escalables —desde la arquitectura hasta producción— usando Node.js, Python, FastAPI, React/Next.js, IoT y ecosistemas en Google Cloud, Azure"
+    - title: "Programación aplicada a minería e industria"
+      description: "Construirás soluciones utilizando Python, Node.js, FastAPI, React/Next.js, APIs industriales, conexión con SCADA, PI System e integración IoT + Cloud."
 
-    - title: "Creación de Contenido y Liderazgo Tecnológico"
-      description: "Comparto contenido educativo para acelerar la adopción de IA, IoT y análisis de datos en minería y sector industrial."
+    - title: "Casos reales con especialistas en operación"
+      description: "Contamos con expertos de campo como Alonso Zavala (Equipos de planta y procesos) y Roberth Velarde (Operación y mantenimiento mina) para garantizar exactitud y aplicación real."
 ---
 
-Soy CTO, desarrollador full-stack e impulsor de la transformación digital en minería e industria. Construyo **plataformas inteligentes** que conectan IA, IoT y datos en tiempo real para mejorar productividad, reducir fallas y habilitar decisiones basadas en datos.
+Soy Elvis, CTO y especialista en IA aplicada a minería e industria.  
+Aquí aprenderás a **programar para resolver problemas reales de planta y mina**, no para hacer ejercicios genéricos.
 
-Me especializo en:
+### ¿Qué hace diferente a esta plataforma?
 
-- Arquitectura de software escalable
-- APIs inteligentes con IA (RAG, copilots, automatización)
-- Analítica y dashboards en tiempo real
-- Integración cloud + edge para operaciones industriales
+Cada curso nace desde situaciones reales como:
 
-Mi propósito es liderar la transformación de la industria y convertirme en uno de los **Referentes de la industria a nivel mundial**, impulsando innovación mediante IA y ecosistemas digitales avanzados.
+- Mejorar disponibilidad de equipos críticos
+- Automatizar reportes de mantenimiento y operación
+- Integrar datos de SCADA, PI System, PLCs o sensores de campo
+- Usar IA para detectar fallas antes de que ocurran
 
-También creo contenido para inspirar a profesionales, ejecutivos y empresas a adoptar tecnología avanzada, mostrando casos reales y demostrando cómo la tecnología puede cambiar la manera de operar en la industria moderna.
+Todo lo que aprendas podrás aplicarlo en:
+
+- Equipos de mina (palas, perforadoras, camiones, correas)
+- Equipos de planta (molinos, celdas de flotación, bombas)
+- Procesos operativos y mantenimiento predictivo
+
+### Una plataforma creada con especialistas en campo
+
+Para asegurar que el contenido no se queda solo en teoría tecnológica,
+trabajo directamente con expertos de operación y mantenimiento:
+
+- **Alonso Zavala** — Especialista en planta y procesos industriales (molinos, celdas, instrumentación)
+- **Roberth Velarde** — Experto en mantenimiento de equipos de mina y confiabilidad operacional
+
+Su experiencia técnica asegura que cada proyecto que construyas aquí tenga **contexto real y valor operativo**.
+
+### Lo que construirás aquí
+
+En lugar de repetir ejercicios, vas a desarrollar proyectos como:
+
+- Dashboards conectados a datos de planta en tiempo real
+- Automatización de alertas para equipos críticos usando IA
+- Reportes inteligentes de operación y mantenimiento con Python
+- Integración edge + cloud para análisis avanzado
+
+> Aprenderás tecnología **para aplicarla en mina o planta**.
+> No para hacer código en abstracto.
+
+---
+
+### Nuestra misión
+
+Formarte como un profesional capaz de conectar:
+
+**Mina / Planta → Datos → Programación → IA → Mejores decisiones**
+
+Queremos que seas parte de la nueva generación de especialistas que lideran la transformación digital de la industria.
+
+Si estás listo para aprender programación con impacto en campo real…
+
+**Comencemos.**
