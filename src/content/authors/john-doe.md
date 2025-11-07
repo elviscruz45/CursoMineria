@@ -10,6 +10,6 @@ social:
 draft: false
 ---
 
-Lidero la integración de inteligencia artificial, automatización y ecosistemas digitales en la industria minera para incrementar productividad, seguridad y sostenibilidad. Diseño y despliego plataformas inteligentes — desde la arquitectura hasta producción — combinando datos en tiempo real, IoT y analítica avanzada para mejorar la toma de decisiones en operaciones industriales de gran escala.
+8 años liderando la integración de inteligencia artificial, automatización y ecosistemas digitales en la industria minera para incrementar productividad, seguridad y sostenibilidad. Diseño y despliego plataformas inteligentes — desde la arquitectura hasta producción — combinando datos en tiempo real, IoT y analítica avanzada para mejorar la toma de decisiones en operaciones industriales de gran escala.
 
 Comparto conocimiento para ayudar a profesionales, ingenieros y empresas a transformar sus procesos, impulsar la innovación y adoptar tecnologías modernas aplicadas a la vida real en la industria minera.

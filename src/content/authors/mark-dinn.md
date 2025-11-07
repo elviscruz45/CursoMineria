@@ -8,7 +8,7 @@ social:
 draft: false
 ---
 
-Profesional especializado en mantenimiento y operación de equipos de planta en la industria minera. Con experiencia gestionando sistemas críticos, monitoreo de equipos, análisis de fallas y mejora continua para aumentar la disponibilidad y confiabilidad operacional.
+20 años de experiencia profesional especializado en mantenimiento y operación de equipos de planta en la industria minera. Con experiencia gestionando sistemas críticos, monitoreo de equipos, análisis de fallas y mejora continua para aumentar la disponibilidad y confiabilidad operacional.
 
 Ha participado en proyectos orientados a optimizar el rendimiento de activos industriales y reducir tiempos de parada mediante buenas prácticas de mantenimiento, gestión de indicadores y trabajo colaborativo con equipos multidisciplinarios.
 
