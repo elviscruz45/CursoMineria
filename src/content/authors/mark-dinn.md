@@ -1,5 +1,5 @@
 ---
-title: Mark Dinn
+title: Alonso Zavala
 meta_title: ""
 image: /images/authors/mark-dinn.jpg
 description: this is meta description

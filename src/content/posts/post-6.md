@@ -1,23 +1,36 @@
 ---
-title: "Become a morning person with the help of alarm clock"
-meta_title: ""
-description: "meta description"
+title: "Curso Profesional de Chancadoras Primaria y Secundaria"
+meta_title: "Chancadoras en Minería — Curso Profesional | Operación y Optimización"
+description: "Aprende cómo funcionan las chancadoras en minería, cómo operar y monitorear su desempeño, y cómo prevenir atollos y fallas mediante buenas prácticas operativas y mantenimiento predictivo."
 date: 2025-04-06T16:56:47+06:00
-image: "/images/posts/06.jpg"
+image: "/images/posts/13.jpeg"
 draft: false
-authors: ["Mark Dinn"]
-tags: ["Alarm", "Clock"]
-categories: ["LifeStyle"]
+authors: ["Alonso Zavala"]
+categories: ["Minería", "Chancadoras", "Curso"]
+tags: ["Chancado", "Operaciones", "Mantenimiento", "Minería"]
 ---
 
-Almost every day for the past nine or so months has felt like March 13, and that can sometimes make it difficult to want to wake up for the day ahead of you.
+La etapa de chancado define el tamaño del mineral que ingresará a molienda.  
+**Una mala operación aquí aumenta costos, genera atollos, desgasta liners y afecta la producción total de planta.**
 
-To make a morning person out of you, the wake-up light simulates the sunrise to gradually ease you awake. This allows you to wake up more naturally rather than being jolted awake by the default iPhone alarm sound, which honestly triggers my fight or flight response.
+Este curso fue creado para operadores, supervisores y profesionales que buscan dominar la operación y el monitoreo de **chancadoras primarias, secundarias y terciarias**.
 
-### Creative Design
+Aprenderás:
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+- Tipos de chancadoras: **mandíbulas, giratorias y cónicas**
+- Variables operativas que afectan el rendimiento
+- Qué es el _choke feeding_ y por qué aumenta la eficiencia
+- Identificación de fallas y atollos antes de que ocurran
+- Mejores prácticas para maximizar el throughput y reducir el desgaste
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## ¿Qué obtendrás?
+
+Al finalizar dominarás los principios que permiten **tomar decisiones operativas basadas en datos**, evitando paradas no planificadas y aumentando la disponibilidad del equipo.
+
+> “Una chancadora bien operada no solo tritura mineral… aumenta producción.”
+
+---
+
+Este curso combina teoría, casos de planta y análisis de variables para que puedas aplicar todo en operaciones reales.

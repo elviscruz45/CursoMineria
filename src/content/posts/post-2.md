@@ -1,23 +1,34 @@
 ---
-title: Why a balloon is a flexible bag
-meta_title: ""
-description: "meta description"
+title: "Curso de Python para Minería e Industria, Análisis de Datos y Automatización"
+meta_title: "Python aplicado a minería | Automatización, análisis de datos y productividad"
+description: "Aprende Python desde cero con ejemplos reales de minería e industria: procesamiento de datos, automatización de reportes, integración con PI System y dashboards con Power BI."
 date: 2025-04-02T05:00:00Z
-image: "/images/posts/02.jpg"
-categories: ["development"]
-authors: ["John Doe"]
-tags: ["diy", "toy"]
+image: "/images/posts/17.webp"
+categories: ["Minería", "Python", "Automatización"]
+authors: ["Elvis Cruz"]
+tags: ["Python", "Datos", "Automatización", "Power BI"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Python se ha convertido en la herramienta más poderosa para automatizar tareas, analizar datos industriales y conectar sistemas como PI System, SCADA o Power BI.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Este curso fue diseñado para profesionales que quieren aprender Python **con casos reales de minería e industria**, no con ejemplos de calculadoras o ejercicios inútiles.
 
-## Creative Design
+Lo que vas a lograr:
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+- Leer archivos CSV, Excel y bases de datos industriales
+- Automatizar reportes y envío de resultados
+- Crear gráficos y análisis para toma de decisiones
+- Conectar Python con fuentes de datos como PI System o APIs
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## ¿Por qué aprender Python en minería?
+
+Porque acelera tu trabajo **100x más rápido que hacerlo con Excel o manualmente**.
+
+> “Si lo haces más de dos veces, se automatiza.”
+
+---
+
+Al finalizar, podrás usar Python para convertir datos en decisiones operativas y mejorar productividad en tus procesos industriales.

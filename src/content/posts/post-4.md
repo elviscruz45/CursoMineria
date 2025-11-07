@@ -1,23 +1,38 @@
 ---
-title: "Why a balloon is a flexible bag that can be inflated with a gas"
-meta_title: ""
-description: "meta description"
+title: "Curso Profesional de PI System Datos en Tiempo Real para Operaciones Industriales"
+meta_title: "PI System — Curso Profesional | Tiempo Real, Dashboards y Optimización de Procesos"
+description: "Aprende a capturar, almacenar y analizar datos en tiempo real de sensores, PLCs y sistemas SCADA utilizando PI System. Crea dashboards, integra Power BI y toma decisiones basadas en datos."
 date: 2025-04-04T16:56:47+06:00
-image: "/images/posts/04.jpg"
+image: "/images/posts/15.jpg"
 draft: false
-authors: ["Mark Dinn"]
-tags: ["Balloon", "Gas"]
-categories: ["Accessories"]
+authors: ["Elvis Cruz"]
+categories: ["Minería", "PI System", "Transformación Digital"]
+tags: ["PI System", "Industria 4.0", "Tiempo real", "Power BI", "IoT"]
 ---
 
-A balloon is a flexible bag that can be inflated with a gas, such as helium, hydrogen, nitrous oxide, oxygen, and air. For special tasks, balloons can be filled with smoke, liquid water, granular media, or light sources.
+PI System es el estándar global para capturar datos en **tiempo real desde sensores, PLCs, SCADA y sistemas industriales**.  
+Plantas concentradoras, refinerías y grandes operaciones lo utilizan para visualizar variables críticas, detectar desviaciones y tomar decisiones en segundos.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+En este curso aprenderás a:
 
-### Creative Design
+- Conectar PI System con equipos reales y fuentes de datos
+- Crear tags, estructuras y análisis en PI AF
+- Configurar dashboards y tendencias para operaciones
+- Integrar PI System con Power BI y Python para análisis avanzado
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+---
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+### ¿Por qué aprender PI System?
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Porque **la industria ya no decide por intuición… decide por datos**.  
+Un operador o ingeniero que domina PI System se vuelve clave para:
+
+- Optimización de producción
+- Mantenimiento predictivo
+- Reducción de fallas y paradas no planificadas
+
+> “El que controla los datos, controla la operación.”
+
+---
+
+Al finalizar, serás capaz de construir dashboards en tiempo real y automatizar análisis que generan impacto directo en producción y eficiencia operativa.

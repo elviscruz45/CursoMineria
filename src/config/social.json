@@ -3,27 +3,23 @@
     {
       "name": "facebook",
       "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.facebook.com/pandorasoftwarecompany"
     },
-    {
-      "name": "X",
-      "icon": "FaXTwitter",
-      "link": "https://x.com/"
-    },
+
     {
       "name": "instagram",
       "icon": "FaInstagram",
-      "link": "https://www.instagram.com/"
+      "link": "https://www.instagram.com/pandorasoftwarecompany/"
     },
     {
       "name": "linkedin",
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "link": "https://www.linkedin.com/company/pandora-software-company/"
     },
     {
       "name": "YouTube",
       "icon": "FaYoutube",
-      "link": "https://www.youtube.com/"
+      "link": "https://www.youtube.com/@ElvisMineriayTecnologia"
     }
   ]
 }

@@ -67,7 +67,7 @@ export default function SearchBar({ searchList }: Props) {
     <div className="min-h-[45vh]">
       <input
         className="form-input w-full text-center"
-        placeholder="Type here to Search posts"
+        placeholder="Buscar un curso"
         type="text"
         name="search"
         value={inputVal}
@@ -138,9 +138,7 @@ export default function SearchBar({ searchList }: Props) {
                 {item.data.title}
               </a>
             </h3>
-            <p className="text-text line-clamp-2">
-              {item.content}
-            </p>
+            <p className="text-text line-clamp-2">{item.content}</p>
           </div>
         ))}
       </div>

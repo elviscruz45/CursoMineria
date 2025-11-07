@@ -1,5 +1,5 @@
 ---
-title: John Doe
+title: Elvis Cruz
 meta_title: ""
 image: /images/authors/john-doe.jpg
 description: this is meta description
